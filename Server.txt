@@ -1,0 +1,210 @@
+Clementine v11
+GSP site
+server name:dmsrv4.gsp.hgst.com
+port:28046
+username:qinghong
+password:zaq12wsx
+-----------------------------------------------------------
+PRB site
+server name:dmsrv4.prb.hgst.com
+port:28046
+username:2412655
+password:83BO9M
+-----------------------------------------------------------
+Trial tracker v1.2
+Pass : 7162859
+-----------------------------------------------------------
+Clementine v15
+Server /port
+port all site : 28052
+PRB	
+spssmdl.prb.hgst.com
+username:2412655
+password:83BO9M
+
+username:7162859
+password:d2F3DS
+
+
+GSP	
+dmsrv1.gsp.hgst.com
+dmsrv4.gsp.hgst.com
+username:qinghong
+password:zaq12wsx
+
+SGP	
+spssmdl.sg.hgst.com (10.81.150.25)
+
+ODW	
+headdm01.odawara.hgst.com
+-----------------------------------------------------------
+
+	IP Address (Host Name)	Tcp Port	Database
+PRB	dmsrv2.prb.hgst.com		50000		EOADB
+	dmsrv5.prb.hgst.com		50000		EOADBEXT
+GSP	dmsrv2.gsp.hgst.com		50000		EOADB
+	dmsrv5.gsp.hgst.com		50000		EOADBEXT
+SGP	aphrodite.sg.hgst.com	50001		EOADB
+-----------------------------------------------------------
+
+
+\\10.82.134.26
+user : administrator
+pass : cobrad
+
+\\10.82.111.13\raid1
+user :
+pass :backup
+
+\\10.82.134.100
+local user : admin
+local pass : zaq12Wsx
+
+Vnc pass: zaq12Wsx
+Telnet same as local user
+
+
+close symentext
+run > smc -stop
+g8up'mkod[bo
+
+10.82.97.117
+user : prb
+pass: prbuser
+
+10.82.111.99
+user ton
+pass code1pw
+
+
+http://tecode1.sanjose.hgst.com/uartrel/uart3/
+webuser
+access2it
+
+New Cost Center :	152100   
+		
+New Location :	T2TEOFF2F
+_____________________________________________________________________________________________________________________________________________
+////////////////////////////////////
+//  tss.zip Formal code release   //
+////////////////////////////////////
+
+*************************
+********  SRST   ********
+*************************
+2.5 mobile
+	| Solomon :: engte :: ssdpkt |/share/25prod/testcode/normal
+J1B
+J1C
+JGB
+JGC
+JBK
+JETB
+JETC
+EB7
+EC7
+SHW 
+_________________________________________________________
+3.5 Deskttop
+MPK | Solomon :: engte :: ssdpkt | /share/serverprod/35/testcode/normal
+APK | Solomon :: engte :: ssdpkt | /share/35prod/testcode/newprod
+_________________________________________________________
+2.5 Enp
+CBE | Solomon :: engte :: ssdpkt |/share/serverprod/25/testcode/normal
+CEP	| Solomon :: engte :: ssdpkt | /home/sun/25server/normal
+CBF	| Solomon :: engte :: ssdpkt | /share/serverprod/25/testcode/normal
+KCF | Solomon :: engte :: ssdpkt | /share/serverprod/25/testcode/normal
+_________________________________________________________
+3.5 Enp
+MPS | Solomon :: engte :: ssdpkt | /share/35prod/testcode/normal
+AR6 | Solomon :: engte :: ssdpkt | /share/35prod/testcode/normal
+Ar8 | Solomon :: engte :: ssdpkt | /share/35prod/testcode/normal
+_________________________________________________________
+
+*************************
+********  Feat  *********
+*************************
+
+
+2.5 mobile
+	| 10.82.145.61 :: sun :: 123456 | /home/sun/25prod/normal
+J1B
+J1C
+JGB
+JGC
+JBK
+JETB
+JETC
+EB7
+EC7
+SHW 
+_________________________________________________________
+3.5 Deskttop
+MPK | 10.82.145.61 :: sun :: 123456 | /home/sun/35prod/normal
+APK | 10.82.145.61 :: sun :: 123456 | /home/sun/35server/normal
+_________________________________________________________
+2.5 Enp
+CBE | 10.82.145.61 :: sun :: 123456 | /home/sun/25server/normal
+CEP	| 10.82.145.61 :: sun :: 123456 | /home/sun/25server/normal
+CBF	| 10.82.145.61 :: sun :: 123456 | /home/sun/25server/normal
+KCF | 10.82.145.61 :: sun :: 123456 | /home/sun/25server/normal
+_________________________________________________________
+3.5 Enp
+MPS | 10.82.145.61 :: sun :: 123456 | /home/sun/35server/normal
+AR6 | 10.82.145.61 :: sun :: 123456 | /home/sun/35server/normal
+Ar8 | 10.82.145.61 :: sun :: 123456 | /home/sun/35server/normal
+_________________________________________________________
+
+***************************
+Source insight
+SI3US-278726-74231
+***************************
+
+Pack Uart ARH
+http://tecodetracker.rochester.hgst.com/cdtracker/
+user: te
+pass: mastermind
+
+c3po.fujisawa.hgst.com
+user: ccb
+pass: ccb
+
+
+---------------------------------------------
+ยื่นภาษี
+1160400134150
+piyanank
+
+
+SERVER Niagara
+10.82.134.157
+username:WMads2429175
+password:Aq1@3eds
+---------------------------------------------------------
+Luxon compiler
+luke.fujisawa.hgst.com
+username taka
+Pass     taka
+
+---------------------------------------------------------
+hotmail.com
+duck_spyware@hotmail.com
+Piyanun012
+duck_comen@hotmail.com
+Ped7162859
+
+duck.com.sut@gmail.com
+piyanun01234
+---------------------------------------------------------
+http://shplog.prb.hgst.com:8080/shpweb/
+chalida
+c1halida
+---------------------------------------------------------
+
+GOOGLE/Youtube/Gmail
+duck.sut.com@gmail.com
+Piyanun01234
+
+Oracle
+duck_comen@hotmail
+Piyanun012
