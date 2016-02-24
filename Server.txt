@@ -202,7 +202,7 @@ c1halida
 ---------------------------------------------------------
 
 GOOGLE/Youtube/Gmail
-duck.sut.com@gmail.com
+duck.com.sut@gmail.com
 Piyanun01234
 
 Oracle
